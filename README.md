@@ -2,5 +2,5 @@
 
 >Status do projeto: Em desenvolvimento
 ...
-npm install 
+npm install react
 ...
