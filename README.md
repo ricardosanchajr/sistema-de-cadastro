@@ -4,5 +4,5 @@ Status do projeto: Em desenvolvimento
 
 Para rodar esse projeto ma sua maquina ,por favor digite:
 ...
-> app.js
+>  Node app.js
 ...
